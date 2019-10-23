@@ -1,0 +1,18 @@
+Eric Rockwood
+
+I expected this to take about 3 to 4 hours at the start, it took me about 6 or 7 total.
+
+I had a lot of difficulty at first when I started this project. I had a hard time trying to figure out how to make
+the array circular and spent way more time than I should trying to figure it out. Eventually, with the guidance of
+an upperclassman, who did not write any code for me, only assisted me in understanding what I was not understanding,
+I was finally able to figure out how to make the array circular and once that was done the tests started passing.
+
+Another issue I had was with the Iterator. Since I had never written an Iterator before it took me a while to figure
+out exactly what I wanted mine to do. Again with the guidance of an upperclassman, I was able to figure out what
+I was doing wrong and was able to correctly write the Iterator.
+
+The last issue I am having was I was unable to figure out how to correctly write the reallocate method at this time.
+I wanted to try to figure this one out on my own without any guidance, but I was unable to figure it out. The only way
+I was able to make all of the tests pass was to start with an initial capacity of 10 instead of 5, since the reallocate
+method would never be called then. I hope to learn sometime soon how to write the correct reallocate method since
+I believe it will be very useful in future projects.
